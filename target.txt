@@ -12,7 +12,7 @@
 12 baseline content for line 12
 13 baseline content for line 13
 14 baseline content for line 14
-15 baseline content for line 15
+15 S2 anchored text at line 15
 16 baseline content for line 16
 17 baseline content for line 17
 18 baseline content for line 18
