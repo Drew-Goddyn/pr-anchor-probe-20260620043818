@@ -12,6 +12,11 @@
 12 baseline content for line 12
 13 baseline content for line 13
 14 baseline content for line 14
+14a inserted line above anchor
+14b inserted line above anchor
+14c inserted line above anchor
+14d inserted line above anchor
+14e inserted line above anchor
 15 S1 anchored text at line 15
 16 baseline content for line 16
 17 baseline content for line 17
